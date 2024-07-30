@@ -186,6 +186,8 @@
 
 .content4-part{
     text-align: center;
+    display: flex;
+    justify-content: center;
 }
 
 .content4-subpart{
